@@ -3,6 +3,14 @@ header{
     color: white
 
 }
+ul{
+    list-style-type: none;
+}
+
+ul > li {
+    padding-left: 1rem;
+}
+
 .red{
     background-color: #ba4b63;
 }
