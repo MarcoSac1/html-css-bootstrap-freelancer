@@ -1,18 +1,9 @@
-/* header{
-    background-color: #3a546d;
-    color: white
-
-}
-
-ul{
-    list-style-type: none;
-}
-
-ul > li {
-    padding-left: 1rem;
-} */
 body{
     font-family: sans-serif;
+}
+
+img{
+    width:100%;
 }
 
 .my_bg-darkblue{
@@ -20,33 +11,25 @@ body{
     
 }
 
-.red{
-    background-color: #ba4b63;
-}
+.linea{
+    background-color: white;
+    height: 4px;
+    width: 80px;
+    border-radius: 2px;
+} 
 
-.green{
-    background-color: #1ea4b6;
-}
-
-.black{
-    background-color:#140f0f;
-}
-
-.azure{
-    background-color: #1c83c1;
-}
-
-.blue{
-    background-color: #0e38b5;
-}
-
-.tan{
-    background-color: #ccb2a3;
+.ms_star i{
+    font-size: 2rem;
 }
 
 .lightgreen{
     background-color: #1abc9c;
     color: white;
+}
+
+.black{
+    background-color: black
+
 }
 
 footer{
