@@ -1,14 +1,23 @@
-header{
+/* header{
     background-color: #3a546d;
     color: white
 
 }
+
 ul{
     list-style-type: none;
 }
 
 ul > li {
     padding-left: 1rem;
+} */
+body{
+    font-family: sans-serif;
+}
+
+.my_bg-darkblue{
+    background-color: #3a546d;
+    
 }
 
 .red{
@@ -35,7 +44,7 @@ ul > li {
     background-color: #ccb2a3;
 }
 
-.about{
+.lightgreen{
     background-color: #1abc9c;
     color: white;
 }
